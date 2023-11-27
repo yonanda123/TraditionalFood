@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_message"
+            android:icon="@drawable/tradisionalsvg"
+            android:title="Makanan Traditional" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_baseline_access_time_24"
+            android:title="Alarm Manager" />
+        <item
+            android:id="@+id/nav_sql"
+            android:icon="@drawable/ic_baseline_library_books_24"
+            android:title="Database SQLlite" />
+        <item
+            android:id="@+id/nav_api"
+            android:icon="@drawable/ic_baseline_cloud_24"
+            android:title="Rest Api" />
+    </group>
+</menu>

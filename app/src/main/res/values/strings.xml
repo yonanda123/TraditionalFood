@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">SharedPreferencsesWitSqlLite</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_left_for_register">Swipe Left for Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tagLogin">Let\'s join us and \nLogin Your Account</string>
+    <string name="tagRegister">Let\'s Register Your Account And \nGo Back To Login</string>
+    <string name="swipe_right_for_login">Swipe Right for Login</string>
+    <string name="register">Register</string>
+    <string name="your_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawe</string>
+    <string name="deskription_menu">Kue cenil adalah salah satu jajanan pasar khas Pulau Jawa yang terbuat dari tepung ketela pohon yang dibentuk bulat-bulat kecil atau lonjong yang diberi pewarna makanan berwarna merah, kuning, dan hijau. Dilansir dari Kompas, kue cenil dari tepung ketela dimasak dengan air sampai teksturnya berubah menjadi kenyal.</string>
+    <string name="ingredients">tepung ketela pohon</string>
+    <string name="Resep">pewarna makanan berwarna merah, kuning, dan hijau</string>
+    <string name="price">PRICE</string>
+    <string name="Harga_Cenil">Rp. 10.000</string>
+    <string name="deskription_menu1">Klepon atau kelepon adalah sejenis makanan tradisional atau kue tradisional Indonesia yang termasuk ke dalam kelompok jajanan pasar. Makanan enak ini terbuat dari tepung beras ketan yang dibentuk seperti bola-bola kecil dan diisi dengan gula merah lalu direbus dalam air mendidih. Klepon yang sudah masak lalu dibalur oleh parutan kelapa agar melekat, sehingga klepon tampak berbalur parutan kelapa. Biasanya klepon diletakkan di dalam wadah yang terbuat dari daun pisang.</string>
+    <string name="ingredients1">tepung beras ketan</string>
+    <string name="Resep1">" pewarna dari daun suji atau daun pandan."</string>
+    <string name="deskription_menu2">Martabak berasal dari bahasa arab Murtabak atau Muttabaq ini merupakan panganan khas Yaman yang memiliki arti dilipat. Kata ini menunjukkan proses pembuatanya yang dilipat-lipat. Jenis martabak ini lebih kita kenal dengan nama martabak asin, martabak telur, atau martabak Mesir.</string>
+    <string name="Resep2">terigu dan telur</string>
+    <string name="ingredients2">Terigu dan Telur</string>
+    <string name="price1">Rp. 15.000</string>
+    <string name="deskription_menu3">Kue dadar gulung (Melayu: kuih ketayap—dialek Sabah: kuih lenggang) merupakan makanan khas Indonesia dan Malaysia yang dapat digolongkan sebagai panekuk yang diisi dengan parutan kelapa yang dicampur dengan gula jawa cair. Isi ini disebut unti. Kulit dadar gulung identik dengan warna hijau karena diberi pewarna daun suji. Kulit dadar gulung yang berbentuk seperti telur dadar menjadi salah satu alasan mengapa makanan ini disebut kue dadar gulung</string>
+    <string name="ingredients3">Kelapa parut dan gula</string>
+    <string name="Resep3">\tKelapa parut dan gula aren dibungkus dengan telur dadar tipis yang terbuat dari tepung beras dan diwarnai hijau dengan pandan</string>
+    <string-array name="makanan">
+        <item>Cenil</item>
+        <item>Dadar Gulung</item>
+        <item>Klepon</item>
+        <item>Martabak</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 5000</item>
+        <item>Rp. 7000</item>
+        <item>Rp. 10.000</item>
+        <item>Rp. 15.000</item>
+    </string-array>
+</resources>
